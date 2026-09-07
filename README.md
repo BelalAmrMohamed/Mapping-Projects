@@ -2,8 +2,13 @@
 
 A Node.js script that generates a beautifully formatted directory tree of your codebase, complete with a detailed codebase summary.
 
+## Description
+<img width="1918" height="1018" alt="image" src="https://github.com/user-attachments/assets/128352cd-3806-4eca-8e63-ff2c8fde4361" />
+
+## Great Structure Format
 <img width="1918" height="1017" alt="image" src="https://github.com/user-attachments/assets/6cba6c8f-aebd-4b56-9511-af64804e3ad0" />
 
+## CodeBase Summary
 <img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/60150fe1-9895-42d4-aad1-73c2e0f0a600" />
 
 ## Features
