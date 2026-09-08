@@ -2,6 +2,7 @@
 // docs/map/map.js
 // 
 // Type this in the terminal: `node docs/map/map.js`
+// Requires `ignore`
 // =============================
 
 import fs from "fs";
