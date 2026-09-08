@@ -11,6 +11,17 @@ A Node.js script that generates a beautifully formatted directory tree of your c
 ## CodeBase Summary
 <img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/60150fe1-9895-42d4-aad1-73c2e0f0a600" />
 
+## Where to put it?
+- Put this file in your `scripts/` directory in the root of your project.
+- Add this line to your `package.json` inside `"scripts": {}`.
+```json
+"map": "node scripts/map.js"
+```
+This way, you can run the script by typing this in the terminal: `npm run map`
+- The generated file will be inside `docs/map/context-map.md`
+
+*You can also edit the file yourself to change where the output gets saved or where you should put it in. See `// ===== Settings =====` at the top of map.js and `// ===== Determine paths =====`* 
+
 ## Features
 
 - **Visual directory tree** – displays your project structure with Unicode box‑drawing characters.
